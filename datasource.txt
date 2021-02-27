@@ -5,6 +5,10 @@ father
 guardian
 house_property
 health
+orphan
+orphanphotos
+region
+user
 
 ps. don't touch this file
 ps2. u can touch me now

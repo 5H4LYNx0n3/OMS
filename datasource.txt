@@ -5,6 +5,14 @@ father
 guardian
 house_property
 health
+orphan
+coordinator
+disrtict
+donor
+education
+educationalrecord
+zone
+village
 
 ps. don't touch this file
 ps2. u can touch me now

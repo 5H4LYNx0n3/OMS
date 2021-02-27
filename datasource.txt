@@ -1,9 +1,15 @@
 this is for testing merging
-
+edited again
+mother
+father
+guardian
+house_property
+health
 
 ps. don't touch this file
-
+ps2. u can touch me now
 
 
 
 done by EA
+
